@@ -96,4 +96,8 @@ npm start
 
 • The OLP app will be accessible at http://localhost:5173
 
-You have successfully installed and set up the Online learning app on your local machine. You can now proceed with further customization, development, and testing as needed.
+## 🎥 Project Demo Video
+
+Watch here:
+https://drive.google.com/file/d/142255Ptqr0TOM283IS6-ntYbwtCKPwik/view
+ as needed.
